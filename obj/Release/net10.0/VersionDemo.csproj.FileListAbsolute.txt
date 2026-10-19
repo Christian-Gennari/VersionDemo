@@ -1,0 +1,14 @@
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/bin/Release/net10.0/VersionDemo
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/bin/Release/net10.0/VersionDemo.deps.json
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/bin/Release/net10.0/VersionDemo.runtimeconfig.json
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/bin/Release/net10.0/VersionDemo.dll
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/bin/Release/net10.0/VersionDemo.pdb
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/VersionDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/VersionDemo.AssemblyInfoInputs.cache
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/VersionDemo.AssemblyInfo.cs
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/VersionDemo.csproj.CoreCompileInputs.cache
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/VersionDemo.dll
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/refint/VersionDemo.dll
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/VersionDemo.pdb
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/VersionDemo.genruntimeconfig.cache
+/home/dev/coding/projects/_school-projects/DevOps/SemVer-in-Csharp/VersionDemo/obj/Release/net10.0/ref/VersionDemo.dll
